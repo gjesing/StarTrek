@@ -59,8 +59,6 @@ namespace NameGenerator
                         }
                     }
                     break;
-                default:
-                    break;
             }
             Console.ReadLine();
         }
